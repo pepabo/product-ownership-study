@@ -2,7 +2,7 @@ title: POとPOじゃない人の勉強会 第15回
 date: 2015-09-07
 tags: meetup
 ---
-第15回は、[写真共有サービス 30days Album](https://30d.jp/) のエンジニアである [juen29](https://twitter.com/june29) が36章から最後までをまとめました。
+第15回は、[写真共有サービス 30days Album](https://30d.jp/) のエンジニアである [june29](https://twitter.com/june29) が36章から最後までをまとめました。
 
 今回にて、POとPOじゃない人の勉強会ファーストシーズン完結です。
 
