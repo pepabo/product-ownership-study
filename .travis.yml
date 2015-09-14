@@ -1,10 +1,24 @@
 language: node_js
 
 before_install:
-  - npm install -g hexo
+- npm install -g hexo
+
+before_script:
+  - sed -i "s~git@github.com:pepabo/product-ownership-study.git~https://${GH_TOKEN}:x-oauth-basic@github.com/peapbo/product_ownership_study.git~" _config.yml
 
 install:
   - npm install
 
 script:
   - hexo generate
+
+after_success:
+  - '[ "$TRAVIS_BRANCH" == "master" ] && [ $GH_TOKEN ] && hexo deploy --silent'
+
+env:
+  global:
+    - GIT_COMMITTER_NAME=pb-deployer
+    - GIT_COMMITTER_EMAIL=pb-deployer@pepabo.com
+    - GIT_AUTHOR_NAME=pb-deployer
+    - GIT_AUTHOR_EMAIL=pb-deployer@pepabo.com
+    - secure: MUzePZOK+hkaa7A8STpTY4ujpCE+6fupFxjQj/ZLjVt4oMBJeoli5syGCp6A6yyJHN/pv6rC613dsGrr41Mvlfn2W/MUg/OisVyzWTNc/bGPUYB8foK2BU8Cevb95b9IqVxMjLPNrdVZZFNyf9thGap/oPvMckb5rv7IliER/RxAy9Kj6yvOSl7s6x9wGynWqMbK542+a5vsqnCsPuVRTyffkdCfsKcxXJ0buQGoQniWz5b/CO4HKFURFoC5hdhYIqdEV1zUq2jyV4c84ufdu2nU1uZSeXbIzl3FxMLkGqR2kvyXI9nRnmYykhtVKKxctKBtnk49/r+Mi2mt+WJpbBADxq+QS4J0PK4cxmXoqn4/zep0ONhO1SRAw7mSwuZHpCMAYzA+/6VLKmumTHmF0ZkvyvJPchT7XD8GfMAaORHmv05DW1un2lh6mLI8/+2E3GYfCOW770Os019wNlAlrgZQ02OEjeJdrdvrbWzVNV/p9PD8n+Ug3WOo0FTPOq3RbQGe+B0Y7jAE/5K0xSARqEv+jiianZFyxVNQiv66gav8ls3sQSTnEQZTx/a9zk0cb/B2Ol8IXUl7aPpm0E6qAKy99vg1GsFdG+T4xpmJJRgPJkOdzrPaW3VkPnnhNtXi782GK43DWIpVDK5FVf0C/yWTTuvtEMD12pgPbBGkz0M=
