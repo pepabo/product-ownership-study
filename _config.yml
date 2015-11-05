@@ -78,4 +78,4 @@ feed:
   type: atom
   path: atom.xml
   limit: 10
-rss: /atom.xml
+rss: /product-ownership-study/atom.xml
