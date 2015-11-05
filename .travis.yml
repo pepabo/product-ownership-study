@@ -13,7 +13,7 @@ script:
   - hexo generate
 
 after_success:
-  - [ "$TRAVIS_BRANCH" == "master" ] && [ $GH_TOKEN ] && hexo deploy --silent
+  - '[ $TRAVIS_BRANCH == "master" ] && [ $GH_TOKEN ] && hexo deploy --silent'
 
 env:
   global:
