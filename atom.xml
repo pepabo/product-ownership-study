@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[ペパボ プロダクトオーナーシップ 勉強会]]></title>
+  
+  <link href="/product-ownership-study/atom.xml" rel="self"/>
+  <link href="http://pepabo.github.io/product-ownership-study/"/>
+  <updated>2015-11-06T01:08:48.000Z</updated>
+  <id>http://pepabo.github.io/product-ownership-study/</id>
+  
+  <author>
+    <name><![CDATA[ペパボのみんな]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[プロダクトオーナー祭り2015 に登壇します & スポンサーします]]></title>
+    <link href="http://pepabo.github.io/product-ownership-study/2015/11/05/po-matsuri-2015-speakers/"/>
+    <id>http://pepabo.github.io/product-ownership-study/2015/11/05/po-matsuri-2015-speakers/</id>
+    <published>2015-11-05T09:50:20.000Z</published>
+    <updated>2015-11-06T01:08:48.000Z</updated>
+    <content type="html"><![CDATA[<p>活動報告が滞っているペパボプロダクトオーナーシップ勉強会の @kenchan です。</p>
+<p>最近のプロダクトオーナーシップ、プロダクトマネジメントの盛り上りに合わせるかのように、今月末に <a href="https://postudy.doorkeeper.jp/events/32808" target="_blank" rel="external">プロダクトオーナー祭り2015 ～世界を変えるのは俺たちだ！～ - POStudy ～プロダクトオーナーシップ勉強会～ | Doorkeeper</a> というイベントが開催されます。</p>
+<p>ペパボからは2名登壇、および公式スポンサーというかたちで、このイベントを一緒に盛り上げていきます!</p>
+<p>面白そうなセッションが沢山ありますが、このエントリではペパボメンバーのセッションについて、概要よりもちょっと踏み込んだ紹介をしたいと思います。</p>
+<h2 id="「新カゴプロジェクトのプロダクトオーナーとしてやってきたこと」山林_茜">「新カゴプロジェクトのプロダクトオーナーとしてやってきたこと」山林 茜</h2><p><a href="https://postudy.doorkeeper.jp/events/32808#a2" target="_blank" rel="external">https://postudy.doorkeeper.jp/events/32808#a2</a></p>
+<p>13:25からのセッションでは、<a href="http://shop-pro.jp/" target="_blank" rel="external">カラーミーショップ</a> というECサービスの新決済ページプロジェクトのプロダクトオーナーである山林 茜が、初めてプロダクトオーナーをした経験について発表します。</p>
+<p>カラーミーショップはペパボの中ではかなり大規模なプロダクトです。チームも施策毎にわかれており、その中の1つが新決済ページプロジェクトでした。</p>
+<p>このように、1つのプロダクトの中に複数のチームが存在し、それぞれのチームにプロダクトオーナーがいるような場合、プロダクト全体の方向性や優先順と各チームのそれとを合わせていくのもプロダクトオーナーの重要な仕事ですし、ときには開発チームと板挟みになるようなケースもあるように思います。</p>
+<p>また、リプレースやリニューアルのようなプロジェクトでは「現在提供している機能にどこまでカバーしたらリリースするのか」「それらをどういう順番で開発していくのか」といったリリースを含めたマネジメントについて、新規開発とは違う難しさもあったのではないかと想像します。</p>
+<p>私は発表内容を一切しらないので、そういった苦労話がどこまで含まれるのかわかりませんが、初めてプロダクトオーナーとなった彼女が歩んできた道は、これからそういった役割を担っていこうという方々の参考になるのはもちろん、既にプロダクトオーナーやプロダクトマネージャーとして活躍している方にも何らかのヒントになるのではないでしょうか。</p>
+<h2 id="プロダクトオーナーとプロダクトオーナーじゃない人の勉強会_出張版">プロダクトオーナーとプロダクトオーナーじゃない人の勉強会 出張版</h2><p><a href="https://postudy.doorkeeper.jp/events/32808#b8" target="_blank" rel="external">https://postudy.doorkeeper.jp/events/32808#b8</a></p>
+<p>16:55からのセッションでは、私 @kenchan がペパボの社内勉強会として開催しているプロダクトオーナーシップ勉強会の特別出張版をワークショップとして行います。</p>
+<p>セッション概要にも書いてある通り、これからプロダクトオーナーシップについて学びたい、プロダクトオーナーシップについて社内に展開していきたい、という方向けの内容になる予定です。</p>
+<p>勉強会の進め方についてはこのブログの過去ログを見ていただくのが一番良いと思いますが、特別出張版でもそれにならって、Inspiredのテーマに沿って(守秘義務に違反しない範囲で)各自の意見や経験をディスカッションを通して共有していければなと思っています。</p>
+<p>どの章をベースにするかというのはまだ決めてないので、「この章についてディスカッションしたい」「俺の話を聞いてほしい」という方がいらっしゃいましたら、当日までにTwitter等でメンションください。</p>
+<h2 id="みなさん奮ってご参加ください">みなさん奮ってご参加ください</h2><p>まだまだ残席に余裕があるようですので是非ご参加ください！ &amp; 懇親会でもお話しましょう！</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>活動報告が滞っているペパボプロダクトオーナーシップ勉強会の @kenchan です。</p>
+<p>最近のプロダクトオーナーシップ、プロダクトマネジメントの盛り上りに合わせるかのように、今月末に <a href="https://postudy.doorkeeper.jp/]]>
+    </summary>
+    
+      <category term="event" scheme="http://pepabo.github.io/product-ownership-study/tags/event/"/>
+    
+      <category term="po-matsuri-2015" scheme="http://pepabo.github.io/product-ownership-study/tags/po-matsuri-2015/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[POとPOじゃない人の勉強会 第15回]]></title>
+    <link href="http://pepabo.github.io/product-ownership-study/2015/09/06/meetup-15/"/>
+    <id>http://pepabo.github.io/product-ownership-study/2015/09/06/meetup-15/</id>
+    <published>2015-09-06T15:00:00.000Z</published>
+    <updated>2015-11-06T01:08:48.000Z</updated>
+    <content type="html"><![CDATA[<p>第15回は、<a href="https://30d.jp/" target="_blank" rel="external">写真共有サービス 30days Album</a> のエンジニアである <a href="https://twitter.com/june29" target="_blank" rel="external">june29</a> が36章から最後までをまとめました。</p>
+<p>今回にて、POとPOじゃない人の勉強会ファーストシーズン完結です。</p>
+<p>次回からは、夏休みの課題図書発表会で繋ぎながら、実際の業務に繋がるような活動にシフトしていきたいと考えています。</p>
+<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/NvU1BaGjDHBGc8" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/pepabo-po/popo-15" title="POとPOじゃない人の勉強会 第15回" target="_blank">POとPOじゃない人の勉強会 第15回</a> </strong> from <strong><a href="//www.slideshare.net/pepabo-po" target="_blank">pepabo-po</a></strong> </div></p>
+<h2 id="36章_使いやすさと見ため">36章 使いやすさと見ため</h2><p>ペパボにおけるデザイナーはインタラクションデザインとビジュアルデザインの両方ができることを求められている(書籍ではそういう人がいたらラッキーと言われている)</p>
+<p>モバイルアプリ、Webアプリだけでなく、ポスターなど紙物もデザインの能力も必要とされている。</p>
+<p>ビジュアルデザインにはテキストやキャッチも含まれるように思うが、それはだれが決めている？</p>
+<p>30daysでは、デザイナーに責任を持ってやってもらっている。日本語重要。</p>
+<h2 id="37章以降">37章以降</h2><p>まとめに入ったのか、大事な10の事シリーズが続く。</p>
+<p>リストアップされた中から、それぞれが置かれている状況や立場で重要だと感じていることをを上げて議論していった。</p>
+<ul>
+<li>顧客サポートの話からコミュニティマネージャという職種について。</li>
+<li>B to B to Cのようなサービスの難しさ。誰の声を聞くのか。</li>
+<li>プロダクトマネジメントがいることで、製品や開発がどうなるのか、まだ実感がない。</li>
+<li>ハリウッドにおける監督とプロデューサーの関係はサービス開発の参考にはならないだろうか。<ul>
+<li>映画のプロジェクトの話は読んでみたい。</li>
+<li>蒲田でゴジラの撮影をしている。CG合成されてない場面は、それだけ見ると全体像は見えない。</li>
+<li>エキストラの人はどれくらい知ってるんだろう？ソフトウェアにおけるパーツと全体の話。</li>
+</ul>
+</li>
+<li>SHIROBAKOの話<ul>
+<li>ゲーム好きが優れたゲームクリエイターになれるわけではない。</li>
+<li>任天堂とスプラトゥーン</li>
+</ul>
+</li>
+<li>エンターテイメント性の高いものは、1人の絶対的なリーダーの頭のなかにあるものを、沢山の人で作っていくイメージ</li>
+<li>それで勝てるんですか？という問い掛けはかなり手強い質問(手強い質問についてはアジャイルサムライ参照)</li>
+<li>Amazonのプレスリリースドリブン、30daysのお知らせブログドリブン</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>第15回は、<a href="https://30d.jp/" target="_blank" rel="external">写真共有サービス 30days Album</a> のエンジニアである <a href="https://twitter.com/june29" t]]>
+    </summary>
+    
+      <category term="meetup" scheme="http://pepabo.github.io/product-ownership-study/tags/meetup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[POとPOじゃない人の勉強会 第14回]]></title>
+    <link href="http://pepabo.github.io/product-ownership-study/2015/08/26/meetup-14/"/>
+    <id>http://pepabo.github.io/product-ownership-study/2015/08/26/meetup-14/</id>
+    <published>2015-08-26T15:00:00.000Z</published>
+    <updated>2015-11-06T01:08:48.000Z</updated>
+    <content type="html"><![CDATA[<p>第14回は、<a href="http://blog.goope.jp/" target="_blank" rel="external">ロースおじさん</a> でおなじみ <a href="http://goope.jp/" target="_blank" rel="external">グーペ</a> のディレクターである <a href="https://twitter.com/jitsuzon" target="_blank" rel="external">じつぞん</a> が33章から35章をまとめました。</p>
+<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/y47WfeZkZhs3uj" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/pepabo-po/popo-14" title="POとPOじゃない人の勉強会 第14回" target="_blank">POとPOじゃない人の勉強会 第14回</a> </strong> from <strong><a href="//www.slideshare.net/pepabo-po" target="_blank">pepabo-po</a></strong> </div></p>
+<h2 id="いろいろログ">いろいろログ</h2><p>ユーザのタイプによって感情がかわる。嬉したとか。</p>
+<p>たとえば、daysで言えばアルバムの作成者と閲覧者</p>
+<p>ユーザインタビュー、Yes/Noでも濃淡がある。2択ではない。<br>録音したあとで聞くとまた違った発見があったりする。</p>
+<p>nanacoの金額選べるカードがあって、便利。当日手渡しできるのが楽。後日メールとかだと手間がふえる。</p>
+<p>リファレンスカスタマーの開拓</p>
+<p>毎回違う人を選ぶのは大変。謝礼を手渡しするのは一つの方法。</p>
+<p>同じ感情が見たせる他のものが競合。</p>
+<p>ジャンプの売り上げが落ちのはi-modeが原因だった。エンタメは暇の奪いあい。</p>
+<p>イノベーターではなく、アーリーアダプター</p>
+<p>不安を商売にする、セキュリティソフト</p>
+<p>フレッシュマンテストとは？</p>
+<p>標高が高くなっている</p>
+<p>となりのタブにはFacebookがいる</p>
+<p>全員がオーナーシップをもつのは前提として、コンセプトを通す人が必要</p>
+<p>コンセプトを作って、それを表現する技術</p>
+<p>個人と会社のプロダクト</p>
+<p>アビリティじゃなくてキャパシティを増やすためにチームを組む</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>第14回は、<a href="http://blog.goope.jp/" target="_blank" rel="external">ロースおじさん</a> でおなじみ <a href="http://goope.jp/" target="_blank" rel="ex]]>
+    </summary>
+    
+      <category term="meetup" scheme="http://pepabo.github.io/product-ownership-study/tags/meetup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[POとPOじゃない人の勉強会 第13回]]></title>
+    <link href="http://pepabo.github.io/product-ownership-study/2015/08/04/meetup-13/"/>
+    <id>http://pepabo.github.io/product-ownership-study/2015/08/04/meetup-13/</id>
+    <published>2015-08-04T15:00:00.000Z</published>
+    <updated>2015-11-06T01:08:48.000Z</updated>
+    <content type="html"><![CDATA[<p>第13回は、デザイナー件プロダクトオーナーである <a href="https://twitter.com/getsukikyu" target="_blank" rel="external">@getsukikyu</a> が30章から32章をまとめました。</p>
+<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/hRH138S0QJXgDu" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/pepabo-po/popo-13" title="POとPOじゃない人の勉強会 第13回" target="_blank">POとPOじゃない人の勉強会 第13回</a> </strong> from <strong><a href="//www.slideshare.net/pepabo-po" target="_blank">pepabo-po</a></strong> </div></p>
+<h2 id="記録">記録</h2><p>これは友達のいない人のあつまりである</p>
+<ul>
+<li>instagramのためにiPhoneを買う(スマフォ移行)<ul>
+<li>ぷよぷよやりたくてメガドライブ、スプラトゥーン</li>
+</ul>
+</li>
+<li>Macにステッカーはる人、ウィンドウズにはいないじゃん</li>
+</ul>
+<p>それしか売る物がない。個別開発しか売る物がない。どうしたらいい？</p>
+<p>プロダクトは誰のもの？問題。</p>
+<p>要望だけで、その背景の問題を理解できない。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>第13回は、デザイナー件プロダクトオーナーである <a href="https://twitter.com/getsukikyu" target="_blank" rel="external">@getsukikyu</a> が30章から32章をまとめました。</p>
+<p]]>
+    </summary>
+    
+      <category term="meetup" scheme="http://pepabo.github.io/product-ownership-study/tags/meetup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[POとPOじゃない人の勉強会 第12回]]></title>
+    <link href="http://pepabo.github.io/product-ownership-study/2015/07/28/meetup-12/"/>
+    <id>http://pepabo.github.io/product-ownership-study/2015/07/28/meetup-12/</id>
+    <published>2015-07-28T15:00:00.000Z</published>
+    <updated>2015-11-06T01:08:48.000Z</updated>
+    <content type="html"><![CDATA[<p>第12回は、諸事情により「ふりかえり回」になりました。</p>
+<p>今までの資料を読み直しながら、それぞれのサービスの現状について議論しておしまい。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>第12回は、諸事情により「ふりかえり回」になりました。</p>
+<p>今までの資料を読み直しながら、それぞれのサービスの現状について議論しておしまい。</p>
+]]>
+    </summary>
+    
+      <category term="meetup" scheme="http://pepabo.github.io/product-ownership-study/tags/meetup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[POとPOじゃない人の勉強会 第11回]]></title>
+    <link href="http://pepabo.github.io/product-ownership-study/2015/07/21/meetup-11/"/>
+    <id>http://pepabo.github.io/product-ownership-study/2015/07/21/meetup-11/</id>
+    <published>2015-07-21T15:00:00.000Z</published>
+    <updated>2015-11-06T01:08:48.000Z</updated>
+    <content type="html"><![CDATA[<p>第11回は、インフラグループマネージャである tamon が27章から29章までをまとめました。</p>
+<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/rWMbxY59MN88oO" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/pepabo-po/popo-11" title="POとPOじゃない人の勉強会 第11回" target="_blank">POとPOじゃない人の勉強会 第11回</a> </strong> from <strong><a href="//www.slideshare.net/pepabo-po" target="_blank">pepabo-po</a></strong> </div></p>
+<h2 id="第27章_ウォーターフォールプロセスを使いこなす">第27章 ウォーターフォールプロセスを使いこなす</h2><p>ウォーターフォールはちゃんと定義があるが、大抵の場合はそこまで厳格で行われていない。</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/DOD-STD-2167A" target="_blank" rel="external">DOD-STD-2167A - Wikipedia, the free encyclopedia</a></li>
+</ul>
+<p>ウォーターフォールの問題で上げられている「市場に反応してしまう」とは？</p>
+<ul>
+<li>ウォーターフォールで進めるということは、それが売れる製品となることが前提である。しかし、実際にはリリースしてから、もしくはする前から市場の変化に反応せざるおえない、ということを伝えたいのでは。</li>
+</ul>
+<h2 id="第28章_ベンチャー企業のプロダクトマネジメント">第28章 ベンチャー企業のプロダクトマネジメント</h2><p>ペパボでは新しいサービスを作るときにできているだろうか？</p>
+<ul>
+<li>実際のターゲットユーザーと一緒にやるというのができていない。アーリーアダプターや社内の人</li>
+<li>作ったほうがよくない？はある。思い込みリリース。</li>
+<li>方向性はよかったけどタイミングが悪かった。運がわるかった。</li>
+</ul>
+<p>(ここで死んでいったサービス達の供養のターン)</p>
+<h2 id="第29章_大きい会社でもイノベーションは不可能ではない">第29章 大きい会社でもイノベーションは不可能ではない</h2><p>「会社の看板背負ってだすからには…」そういう雰囲気は感じる。</p>
+<p>最大の要因2つは、著者もそれ以上詳しくは書いてない。</p>
+<p>観察によるイノベーションの対象は、アーリーアダプターじゃないほうがいいのは「アーリーアダプターは寛容だから」というのが前の章にあった。</p>
+<p>いきなり札束で叩くんじゃなくて、ちゃんと関係性を作るように。</p>
+<p>イノベーションとはなんだったのか。今ある問題を新しいやり方で解決すること！みんなハイライトして！</p>
+<p>スマホタイムはイノベーションを起こしたかったのではのではないだろうか。</p>
+<p>イノベーションから収益に結びつきにくいので、仕事の頭のまま起こすのは困難という考え方も。仕事はnクリックをn-1とかn-2にすることを考えがち。</p>
+<p><a href="http://www.otsune.com/diary/2008/09/11/1.html#200809111世の中というか生活というか" target="_blank" rel="external">http://www.otsune.com/diary/2008/09/11/1.html#200809111世の中というか生活というか</a></p>
+<p>イノベーションを感じたものリスト</p>
+<ul>
+<li>SUZURIの画像合成</li>
+<li>大相撲アプリの速報性</li>
+<li>リターゲティング広告</li>
+<li>LINE スタンプ</li>
+<li>LINE 既読通知</li>
+<li>マルチタッチ</li>
+<li>nasne</li>
+<li>フリック入力</li>
+</ul>
+<h2 id="おまけ">おまけ</h2><p>モンテッソーリ教育というものがある。Googleの本に出てた。</p>
+<p>Twitterはこうやって作られたの？そんなかんじじゃない。</p>
+<h3 id="最近のPOたちの活躍">最近のPOたちの活躍</h3><p>ECでのユーザインタビュー。</p>
+<p>テスト用のアカウントで使ってもらったら、自分達の思っていたこととは違うところがたくさんあった。</p>
+<p>新規の説明だけして使ってもらう。 &gt; ナビゲーションの問題がわかった「そこにあると思うんだ」とかいうやつ。</p>
+<p>文章で伝えられる要望は、その人が知っている概念で説明しようとするので、本当に欲しいものから離れてしまうことがある。</p>
+<p>口で説明してもらうと情報量が増える。</p>
+<p>30daysでベータ版アプリを入れた端末を持って社内を歩いた話。同じようにナビゲーションの問題がみつかったり。</p>
+<p>これらかユーザテストをしたり、インタビューをしていく上で、ユーザに依頼メールをだしたりすることが沢山あるはず。</p>
+<p>どういうメールが返信率がよいか、などそういう知見を貯めていけるとよさそう。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>第11回は、インフラグループマネージャである tamon が27章から29章までをまとめました。</p>
+<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/rWMbxY59MN88oO" width=]]>
+    </summary>
+    
+      <category term="meetup" scheme="http://pepabo.github.io/product-ownership-study/tags/meetup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[POとPOじゃない人の勉強会 第10回]]></title>
+    <link href="http://pepabo.github.io/product-ownership-study/2015/07/15/meetup-10/"/>
+    <id>http://pepabo.github.io/product-ownership-study/2015/07/15/meetup-10/</id>
+    <published>2015-07-15T15:00:00.000Z</published>
+    <updated>2015-11-06T01:08:48.000Z</updated>
+    <content type="html"><![CDATA[<p>第10回は、発表者が一周したので <a href="https://twitter.com/kenchan" target="_blank" rel="external">@kenchan</a> が24章から26章をまとめました。</p>
+<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/nQ4jsS7UAKib60" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/pepabo-po/popo-10" title="POとPOじゃない人の勉強会 第10回" target="_blank">POとPOじゃない人の勉強会 第10回</a> </strong> from <strong><a href="//www.slideshare.net/pepabo-po" target="_blank">pepabo-po</a></strong> </div></p>
+<h2 id="第24章_ユーザーにやさしい緩やかなバージョン移行">第24章 ユーザーにやさしい緩やかなバージョン移行</h2><ul>
+<li>ユーザーは変更は求めていない。よくできた新しい機能は使いたいが、今できていることはそのままやりたい。</li>
+<li>一部のユーザーから始めるなど緩やかなバージョン移行が大事。</li>
+</ul>
+<h2 id="第25章_迅速な対応">第25章 迅速な対応</h2><ul>
+<li>製品の発売はゴールではない！</li>
+<li>発売しないとわからないことがある！</li>
+<li>製品開発の中で一番ROIを改善できるのは発売直後なんすよ</li>
+<li>すばやくバグを解決するとむしろ好印象・高評価になる</li>
+</ul>
+<p>しかし現実は…</p>
+<h4 id="「開発直後にそのプロダクトの優先順位がダダ下がりになる」「リリース後に問題が多発する」→「あるある〜_(´・ω・`)」">「開発直後にそのプロダクトの優先順位がダダ下がりになる」「リリース後に問題が多発する」→「あるある〜 (´・ω・`)」</h4><p>なので…</p>
+<h4 id="「すぐに開発チームを解散しないで！」「リリース後も定期的にモニタリングしよう！」">「すぐに開発チームを解散しないで！」「リリース後も定期的にモニタリングしよう！」</h4><h2 id="第26章_アジャイルな開発手法を使いこなす">第26章 アジャイルな開発手法を使いこなす</h2><ul>
+<li>POとデザイナーは、製品開発チームよりも1,2スプリント先行すること（開発チームの協力も必要）<ul>
+<li>「これ大事ですよね！！」</li>
+</ul>
+</li>
+<li>重厚な仕様書ではなくプロトタイプとユーザーストーリーを作ろう</li>
+<li>開発者の環境でなく、ステージング環境で製品の品質を確保しよう<ul>
+<li>ローカル環境ではさくさく動いたのにステージングでは重い…とかになりがちなので</li>
+</ul>
+</li>
+<li>スプリントの最後には、現状のデモと次に開発するプロトタイプのデモをしよう<ul>
+<li>次のスプリント用のデモまでできてないなー</li>
+</ul>
+</li>
+<li>全員にアジャイル開発のトレーニングを受けさせよう<ul>
+<li>ちゃんとしたコンサルを雇おう！共通認識を持とう！</li>
+</ul>
+</li>
+</ul>
+<h3 id="補講：スクラムを「ちゃんと」やろう！">補講：スクラムを「ちゃんと」やろう！</h3><h4 id="☆みんな、アジャイルソフトウェア開発宣言読んでる？">☆みんな、アジャイルソフトウェア開発宣言読んでる？</h4><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">　プロセスやツールよりも「個人と対話」</span><br><span class="line">　包括的なドキュメントよりも「動くソフトウェア」</span><br><span class="line">　契約交渉よりも「顧客との協調」</span><br><span class="line">　計画に従うことよりも「変化への対応」</span><br></pre></td></tr></table></figure>
+<p>左にも価値があるけど、右はもっと価値があるね！</p>
+<h4 id="☆スクラム、「ちゃんと」できてる？">☆スクラム、「ちゃんと」できてる？</h4><ul>
+<li>スクラムを知らない人・自己流でスクラムやってる人が多い。</li>
+<li>バックログのリファインメントをやってないチームが多い。<ul>
+<li>プロダクトバックログがただのめんどくさい事案の塊になっていたりする。</li>
+</ul>
+</li>
+</ul>
+<p>▼スクラムガイドを全部読んで、まずはその通りにやろう！！<br><a href="https://github.com/kdmsnr/ScrumGuide/blob/master/2013-07a/Scrum_Guide_2013_ja.pdf" target="_blank" rel="external">https://github.com/kdmsnr/ScrumGuide/blob/master/2013-07a/Scrum_Guide_2013_ja.pdf</a></p>
+<p>▼その名もスクラムという本が出た！<br>著者はスクラムの生みの親ジェフ・サザーランド。<br><a href="http://www.amazon.co.jp/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E3%80%80%E4%BB%95%E4%BA%8B%E3%81%8C%EF%BC%94%E5%80%8D%E9%80%9F%E3%81%8F%E3%81%AA%E3%82%8B%E2%80%9C%E4%B8%96%E7%95%8C%E6%A8%99%E6%BA%96%E2%80%9D%E3%81%AE%E3%83%81%E3%83%BC%E3%83%A0%E6%88%A6%E8%A1%93-%E3%82%B8%E3%82%A7%E3%83%95%E3%83%BB%E3%82%B5%E3%82%B6%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89/dp/4152095423/" target="_blank" rel="external">http://www.amazon.co.jp/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E3%80%80%E4%BB%95%E4%BA%8B%E3%81%8C%EF%BC%94%E5%80%8D%E9%80%9F%E3%81%8F%E3%81%AA%E3%82%8B%E2%80%9C%E4%B8%96%E7%95%8C%E6%A8%99%E6%BA%96%E2%80%9D%E3%81%AE%E3%83%81%E3%83%BC%E3%83%A0%E6%88%A6%E8%A1%93-%E3%82%B8%E3%82%A7%E3%83%95%E3%83%BB%E3%82%B5%E3%82%B6%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89/dp/4152095423/</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>第10回は、発表者が一周したので <a href="https://twitter.com/kenchan" target="_blank" rel="external">@kenchan</a> が24章から26章をまとめました。</p>
+<p><iframe src="]]>
+    </summary>
+    
+      <category term="meetup" scheme="http://pepabo.github.io/product-ownership-study/tags/meetup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[POとPOじゃない人の勉強会 第9回]]></title>
+    <link href="http://pepabo.github.io/product-ownership-study/2015/07/08/meetup-09/"/>
+    <id>http://pepabo.github.io/product-ownership-study/2015/07/08/meetup-09/</id>
+    <published>2015-07-08T15:00:00.000Z</published>
+    <updated>2015-11-06T01:08:48.000Z</updated>
+    <content type="html"><![CDATA[<p>第9回は、<a href="http://shop-pro.jp/" target="_blank" rel="external">カラーミーショップ</a> のディレクターである <a href="https://twitter.com/_gasyadokuro" target="_blank" rel="external">@_gasyadokuro</a> が21章から23章をまとめました。</p>
+<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/E0x60QK3B7ouv6" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/pepabo-po/popo-9" title="POとPOじゃない人の勉強会 第9回" target="_blank">POとPOじゃない人の勉強会 第9回</a> </strong> from <strong><a href="//www.slideshare.net/pepabo-po" target="_blank">pepabo-po</a></strong> </div></p>
+<h2 id="第21章_製品仕様の検証">第21章 製品仕様の検証</h2><p>私たちが「仕様」というとき、本書ので「製品仕様」とはだいぶ違うものを差しているように思うので、言葉を整理したほうがいいだろう。</p>
+<p>フィージビリティはやってないことが多くて、「もちろんできるよね？」という感じで決まることが多いのではないだろうか。</p>
+<p>だいたいのことはできるけどそれは</p>
+<ul>
+<li>人を増やす</li>
+<li>時間を増やす(期限をのばす)</li>
+</ul>
+<p>のどちらかで解決していることも多い。</p>
+<p>「ユーザービリティテストとは技術であり科学である」つまり習得可能で、再現性があるということ。ここテストに出ます。</p>
+<p>本書でのユーザーはサービスを利用する人一般、顧客はその中からお金をはらってくれている人、というくらいの理解でよさそう。</p>
+<p>ユーザを顧客にしていくのがグロースハック的なものでは。</p>
+<p>最初の方にあった、評判がいいけど売れなかったやつは「価値があるかどうか」の検証がたりなかったのではないだろうか。</p>
+<h2 id="第22章_製品プロトタイプの検証">第22章 製品プロトタイプの検証</h2><p>ユーザビリティとは使用感のことである。</p>
+<p>製品のアイデアを実際のユーザーと一緒にテストすることは、プロダクトマネージャーの大切な仕事の1つ。みんなやってる？</p>
+<h2 id="第23章_現在の製品を改善する">第23章 現在の製品を改善する</h2><p>改善とは機能追加ではない。これテストに出ます。</p>
+<p>問い合わせ多いから注意書き足しとこうとか、他がやっているからとか、そういうやつは改善なのか？</p>
+<p>では改善はどういうことかというと、製品の出来を表す数値を狙った方向に動かすこと。そのためには、仮説をたてること、それを検証することが大事。</p>
+<p>ディレクターが数字を見ることがここに繋がる。</p>
+<p>また、仮説をたてる上で、実際のユーザに聞いてみるというのは効果的。ただし、質問やアンケートの作り方で、自分達の期待する答えを誘導しないように作るのが難しい。</p>
+<p>アンケート等では、直接の解決方法のよさを判断するのではなく、その根底にあるユーザの不満や疑問をほりおこすことが大事なのでは。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>第9回は、<a href="http://shop-pro.jp/" target="_blank" rel="external">カラーミーショップ</a> のディレクターである <a href="https://twitter.com/_gasyadokuro" tar]]>
+    </summary>
+    
+      <category term="meetup" scheme="http://pepabo.github.io/product-ownership-study/tags/meetup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[POとPOじゃない人の勉強会 第8回]]></title>
+    <link href="http://pepabo.github.io/product-ownership-study/2015/06/30/meetup-08/"/>
+    <id>http://pepabo.github.io/product-ownership-study/2015/06/30/meetup-08/</id>
+    <published>2015-06-30T15:00:00.000Z</published>
+    <updated>2015-11-06T01:08:48.000Z</updated>
+    <content type="html"><![CDATA[<p>第8回は、<a href="http://jugem.jp/" target="_blank" rel="external">JUGEM</a> の yuriwo が18章から20章をまとめました。</p>
+<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/gEMQIJD3msYTP" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/pepabo-po/popo-8" title="POとPOじゃない人の勉強会 第8回" target="_blank">POとPOじゃない人の勉強会 第8回</a> </strong> from <strong><a href="//www.slideshare.net/pepabo-po" target="_blank">pepabo-po</a></strong> </div></p>
+<h2 id="プロトタイプとユーザテスト">プロトタイプとユーザテスト</h2><p>ここで言うプロトタイプやベータ版は、本開発とは別のもの。何度かでてきたハイファイプロトタイプと呼ばれるもの。</p>
+<p>その結果を受けて、プロトタイプを捨てて本開発をするんだよ。プロトタイプの定義を関係者で合意しておかないと、不幸な未来が見える。</p>
+<h2 id="ユーザテストでのアクシデント">ユーザテストでのアクシデント</h2><p>ユーザテストでもし未完成の部分をユーザが操作したらどうする？</p>
+<p>続きになにがあると思いましたか？と聞くと価値ある情報が得られることがある。</p>
+<h2 id="ペパボでの製品要求仕様は?">ペパボでの製品要求仕様は?</h2><p>ペパボでは製品要求仕様やハイファイプロトタイプを作っているか？</p>
+<p>XXプロジェクトでは、一番最初にUXをイメージできる動画を作ったよ。</p>
+<p>ただ、実際に動くようになると触り心地がだいぶ違ったようなので、ハイファイプロトタイプってのはそういうところまで再現できたほうがいいのかもしれない。</p>
+<p>minneではスマホアプリ用にWebの機能からペーパープロトタイプを作ったりした。</p>
+<h2 id="製品要求仕様やハイファイプロトタイプで解決しようとしている課題は何か">製品要求仕様やハイファイプロトタイプで解決しようとしている課題は何か</h2><p>解決すべきユーザの課題は決まっていて(これは市場要求仕様の範囲かな？)、その解決方法が</p>
+<ul>
+<li>問題を解決できているか<ul>
+<li>うまく解決できているか</li>
+</ul>
+</li>
+</ul>
+<p>という部分を低コストで判断したいのでは。</p>
+<p>市場要求仕様の部分とあわせて考えると</p>
+<ul>
+<li>問題があっているか</li>
+<li>解決方法があっている</li>
+<li>いい解決方法か</li>
+</ul>
+<p>という3段階があって、これを素早く検証しなければならないのだ。</p>
+<h2 id="ユーザテストのコスト的な問題">ユーザテストのコスト的な問題</h2><p>モックを作って、テストのシナリオを考えて、ユーザに会いにいくの大変だよ。そんな高速にまわせるのかな？</p>
+<p>そういうことをやった結果、「スピード感がない」と思われてしまったりしないか？</p>
+<p>結果的にはきっと無駄が少なくなるはず。それをどう説明するかの問題では。</p>
+<p>一発でいいものができることもあるだろうけど、それは宝くじにあたるのと一緒で運(とセンス)でしかないのでは。</p>
+<h2 id="ユーザテストをやればよかったと思ったことは">ユーザテストをやればよかったと思ったことは</h2><p>ユーザからものすごい反感をかったり、出したけどすぐひっこめた経験はけっこうある。</p>
+<p>人間の心情として、出してみたけど駄目だから引っ込めるというのは納得できるが、正式に出す前になかったことにするのは納得感がないと感じるかもしれない。</p>
+<p>第三者の意見は圧倒的な根拠になってしまう。</p>
+<p>ユーザテストの結果でころころと仕様を変えてしまうと、手戻り感を感じるかもしれない。そのあたりの価値観と進め方を事前に共有しておく必要はありそう。</p>
+<p>サービスの提供側とユーザの心がズレていってしまうのはどうしてなんだろう。</p>
+<p>サービスの提供側では利用者になりきれない場合が多い。そのためにリファレンスカスタマーを探すんだ。</p>
+<h2 id="何がきっかけでユーザテストをやるようになったか">何がきっかけでユーザテストをやるようになったか</h2><p>職種間で意見が食い違った。じゃあインタビューをしようという話になった。</p>
+<p>これは製品要求仕様のまえの市場調査をやったということになるのではないだろうか。</p>
+<h2 id="スクラム、ユーザテスト、アジャイル開発">スクラム、ユーザテスト、アジャイル開発</h2><p>わからないということを前提にしているのがよい。スクラムとユーザテストの共通点ではないか。</p>
+<p>最初から答えがあるならウォーターフォールが最強。</p>
+<p>どちらがよい、というわけではなくて、自分達が解こうとしている問題の性質にあわせてプロセスや道具を選択、改善していくことが大事。</p>
+<h2 id="ペパボのプロダクトマネージャの将来像">ペパボのプロダクトマネージャの将来像</h2><p>以前と比べると、ユーザテストやインタビューの必要性や有効性が理解されてきたように感じる。</p>
+<p>一方で、熱意とテクニックのバランスの取れたプロダクトマネージャーの育成や学習が次の課題になるのではないだろうか。</p>
+<p>そういった活動の一つがこの勉強会。</p>
+<p>結局はいいプロダクトが早く開発できて、それで儲かれば文句ない。</p>
+<p>「ユーザテストやってる間にどれだけ新機能作れるのか」という問いは間違っている。そういうことを説明しなくてもいいような組織作りが大事。</p>
+<p>ミドル層がキーマンと言えるので、リーンスタートアップを読んでおしまい、から一歩前に出よう。</p>
+<p>まずは本を読む。世の中には同じことで悩んでいて、いろいろな方法で解決している人達が既に沢山いる。</p>
+<p>この読書会で共通認識が作られるつつある。もっと広げていきたい。</p>
+<h2 id="雑談">雑談</h2><p>製品だけじゃなくて人間が成長する。チームの成長。それがさらに製品に返ってくる。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>第8回は、<a href="http://jugem.jp/" target="_blank" rel="external">JUGEM</a> の yuriwo が18章から20章をまとめました。</p>
+<p><iframe src="//www.slideshare.]]>
+    </summary>
+    
+      <category term="meetup" scheme="http://pepabo.github.io/product-ownership-study/tags/meetup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[POとPOじゃない人の勉強会 第7回]]></title>
+    <link href="http://pepabo.github.io/product-ownership-study/2015/06/23/meetup-07/"/>
+    <id>http://pepabo.github.io/product-ownership-study/2015/06/23/meetup-07/</id>
+    <published>2015-06-23T15:00:00.000Z</published>
+    <updated>2015-11-06T01:08:48.000Z</updated>
+    <content type="html"><![CDATA[<p>第7回は、今をときめく <a href="https://minne.com/" target="_blank" rel="external">minne(ミンネ) ハンドメイドマーケット 手作り作品の通販</a> の <a href="https://twitter.com/nrkkkkk" target="_blank" rel="external">のりぞー</a> が15章から17章をまとめました。</p>
+<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/iTZZ0cDRwX1d0g" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/pepabo-po/popo-7" title="POとPOじゃない人の勉強会 第7回" target="_blank">POとPOじゃない人の勉強会 第7回</a> </strong> from <strong><a href="//www.slideshare.net/pepabo-po" target="_blank">pepabo-po</a></strong> </div></p>
+<h2 id="15章_ユーザーモニター制度">15章 ユーザーモニター制度</h2><p>「お客様の声」みたいなことをやると、不満がたくさんでてくる。その人達はリファレンスカスタマーではないと考えられる。(普通のカスタマー)</p>
+<p>リファレンスという言葉を日本語にするとしたら何が適当か。</p>
+<p>アンバサダーという制度もありますよね。ただ、リコメンドしてくれるだけではなく、指摘してくれる人だからリファレンスという言葉を使っているのでは。</p>
+<p>ユーザーモニターをする製品は特注品ではない(あなたのためのソフトウェアではな)ことをちゃんと説明する。そう考えると、クラシコムの青木さんはリファレンスカスタマーっぽい。</p>
+<p>アーリーアダプターはユーザーモニターの対象とはだいぶ違うことを忘れないように。</p>
+<h2 id="16章_市場調査">16章 市場調査</h2><p>アンケートとってますか？とってるけど難しい。回答から設問を作りがち。</p>
+<p>あるといいと思います？よりは、いらないですよね？と聞くと本心がききやすいこともある。あえて間違っていることを言うというテクニックもある。</p>
+<p>狩野モデルの「当たり前品質要素」はKPIがとりにくい。継続率とか?</p>
+<p>また、あの3つをどうバランス良くやっていけばいいのか、なにか考え方はないだろうか。1つは自分達が今どこに力を入れているかを意識すること。</p>
+<p>身も蓋もないことを言うと、そのバランスをとるのがプロダクトマネージャーの仕事では。</p>
+<p>プロダクトのフェーズによっても、どこに力をいれるべきかは変わってきそう。</p>
+<p>30daysのユーザインタビューの話。オフィスで考えていてもでてこない考え方が見えてきた。</p>
+<p>データ計測の問題。適度なデータがたまったら教えてくれるサービスが欲しい。ビジネスチャンスだ。</p>
+<p>ペルソナは個人じゃなくて集団を代表する人格を想像する</p>
+<p>一度細かくして、そこから抽象化するといいのでは。ざっくりやると、無意識に暗黙的に仮説を作ってしまいそう。なので、詳細なペルソナをまず作るのもよさそう。</p>
+<h2 id="17章_プロダクトマネジメントのためのペルソナ">17章 プロダクトマネジメントのためのペルソナ</h2><p>だれのための製品化を決めることは、ターゲットから外れているユーザを定義するという意味もある。</p>
+<p>ペルソナをたてることで、「自分」と「顧客」の意識を分けることができるようになりそう。</p>
+<p>万人のための製品は、ペルソナを考えているサービスに負けてしまうのでは。</p>
+<p>某社の強さはそのあたりにあるように見える。</p>
+<p>ペルソナを定義することで、競合を明確にできるのではないか。プロ向けのサービスとアマチュア向けのサービスは競合となりえるのか。</p>
+<p>パズドラのペルソナってどうだったんだろう？今や老若男女問わずだけど、初期はおそらくあったのでは？</p>
+<p>minneのペルソナできたら、のりぞーさんに全サービスを渡り歩いてペルソナ作ってほしい。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>第7回は、今をときめく <a href="https://minne.com/" target="_blank" rel="external">minne(ミンネ) ハンドメイドマーケット 手作り作品の通販</a> の <a href="https://twitter.co]]>
+    </summary>
+    
+      <category term="meetup" scheme="http://pepabo.github.io/product-ownership-study/tags/meetup/"/>
+    
+  </entry>
+  
+</feed>
