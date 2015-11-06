@@ -72,3 +72,10 @@ deploy:
   repo: git@github.com:pepabo/product-ownership-study.git
   branch: gh-pages
   message: Hexo deploy
+
+# Feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 10
+rss: /product-ownership-study/atom.xml
