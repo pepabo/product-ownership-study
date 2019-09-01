@@ -2,6 +2,15 @@
 title: プロダクトオーナーシップ勉強会 第1回
 date: 2015-05-12
 tags: プロダクトマネジメント, ProductManagement, 勉強会
+eye_catch:
+authors:
+- name: けんちゃんくんさん
+  email: kenchan@pepabo.com
+  profile: 津田沼で猫を二匹飼っているEC事業部のCTL
+  twitter: kenchan
+  facebook: kenichi.taka
+  github: kenchan
+published:true
 ---
 本日より、ペパボプロダクトオーナーシップ勉強というものを始めました主催の [@kenchan](https://twitter.com/kenchan) です。
 

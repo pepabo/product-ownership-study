@@ -2,6 +2,15 @@
 title: POとPOじゃない人の勉強会 第7回
 date: 2015-06-24
 tags: プロダクトマネジメント, ProductManagement, 勉強会
+eye_catch:
+authors:
+- name: けんちゃんくんさん
+  email: kenchan@pepabo.com
+  profile: 津田沼で猫を二匹飼っているEC事業部のCTL
+  twitter: kenchan
+  facebook: kenichi.taka
+  github: kenchan
+published:true
 ---
 第7回は、今をときめく [minne(ミンネ) ハンドメイドマーケット 手作り作品の通販](https://minne.com/) の [のりぞー](https://twitter.com/nrkkkkk) が15章から17章をまとめました。
 

@@ -2,6 +2,15 @@
 title: POとPOじゃない人の勉強会 第13回
 date: 2015-08-05
 tags: プロダクトマネジメント, ProductManagement, 勉強会
+eye_catch:
+authors:
+- name: けんちゃんくんさん
+  email: kenchan@pepabo.com
+  profile: 津田沼で猫を二匹飼っているEC事業部のCTL
+  twitter: kenchan
+  facebook: kenichi.taka
+  github: kenchan
+published:true
 ---
 第13回は、デザイナー件プロダクトオーナーである [@getsukikyu](https://twitter.com/getsukikyu) が30章から32章をまとめました。
 

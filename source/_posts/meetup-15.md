@@ -2,6 +2,15 @@
 title: POとPOじゃない人の勉強会 第15回
 date: 2015-09-07
 tags: プロダクトマネジメント, ProductManagement, 勉強会
+eye_catch:
+authors:
+- name: けんちゃんくんさん
+  email: kenchan@pepabo.com
+  profile: 津田沼で猫を二匹飼っているEC事業部のCTL
+  twitter: kenchan
+  facebook: kenichi.taka
+  github: kenchan
+published:true
 ---
 第15回は、[写真共有サービス 30days Album](https://30d.jp/) のエンジニアである [june29](https://twitter.com/june29) が36章から最後までをまとめました。
 

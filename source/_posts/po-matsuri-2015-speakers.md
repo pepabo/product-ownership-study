@@ -2,6 +2,15 @@
 title: プロダクトオーナー祭り2015 に登壇します & スポンサーします
 date: 2015-11-05
 tags: ProductManagement, イベント
+eye_catch:
+authors:
+- name: けんちゃんくんさん
+  email: kenchan@pepabo.com
+  profile: 津田沼で猫を二匹飼っているEC事業部のCTL
+  twitter: kenchan
+  facebook: kenichi.taka
+  github: kenchan
+published:true
 ---
 活動報告が滞っているペパボプロダクトオーナーシップ勉強会の @kenchan です。
 

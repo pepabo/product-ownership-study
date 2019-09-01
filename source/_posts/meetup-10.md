@@ -2,6 +2,15 @@
 title: POとPOじゃない人の勉強会 第10回
 date: 2015-07-16
 tags: プロダクトマネジメント, ProductManagement, 勉強会
+eye_catch:
+authors:
+- name: けんちゃんくんさん
+  email: kenchan@pepabo.com
+  profile: 津田沼で猫を二匹飼っているEC事業部のCTL
+  twitter: kenchan
+  facebook: kenichi.taka
+  github: kenchan
+published:true
 ---
 第10回は、発表者が一周したので [@kenchan](https://twitter.com/kenchan) が24章から26章をまとめました。
 

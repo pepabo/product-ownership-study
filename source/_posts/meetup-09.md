@@ -2,6 +2,15 @@
 title: POとPOじゃない人の勉強会 第9回
 date: 2015-07-09
 tags: プロダクトマネジメント, ProductManagement, 勉強会
+eye_catch:
+authors:
+- name: けんちゃんくんさん
+  email: kenchan@pepabo.com
+  profile: 津田沼で猫を二匹飼っているEC事業部のCTL
+  twitter: kenchan
+  facebook: kenichi.taka
+  github: kenchan
+published:true
 ---
 第9回は、[カラーミーショップ](http://shop-pro.jp/) のディレクターである [@_gasyadokuro](https://twitter.com/_gasyadokuro) が21章から23章をまとめました。
 

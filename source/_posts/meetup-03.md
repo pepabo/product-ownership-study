@@ -2,6 +2,15 @@
 title: プロダクトオーナーシップ勉強会 第3回
 date: 2015-05-27
 tags: プロダクトマネジメント, ProductManagement, 勉強会
+eye_catch:
+authors:
+- name: けんちゃんくんさん
+  email: kenchan@pepabo.com
+  profile: 津田沼で猫を二匹飼っているEC事業部のCTL
+  twitter: kenchan
+  facebook: kenichi.taka
+  github: kenchan
+published:true
 ---
 第3回は、インフラグループマネージャである tamon が3章から5章までをまとめました。
 
