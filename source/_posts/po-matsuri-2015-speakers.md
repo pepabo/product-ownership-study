@@ -1,9 +1,7 @@
 ---
 title: プロダクトオーナー祭り2015 に登壇します & スポンサーします
-date: 2015-11-05 18:50:20
-tags:
-  - event
-  - po-matsuri-2015
+date: 2015-11-05
+tags: ProductManagement, イベント
 ---
 活動報告が滞っているペパボプロダクトオーナーシップ勉強会の @kenchan です。
 
