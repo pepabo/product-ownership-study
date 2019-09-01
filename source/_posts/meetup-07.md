@@ -1,3 +1,4 @@
+---
 title: POとPOじゃない人の勉強会 第7回
 date: 2015-06-24
 tags: meetup
