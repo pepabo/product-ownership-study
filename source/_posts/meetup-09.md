@@ -1,7 +1,7 @@
 ---
 title: POとPOじゃない人の勉強会 第9回
 date: 2015-07-09
-tags: meetup
+tags: プロダクトマネジメント, ProductManagement, 勉強会
 ---
 第9回は、[カラーミーショップ](http://shop-pro.jp/) のディレクターである [@_gasyadokuro](https://twitter.com/_gasyadokuro) が21章から23章をまとめました。
 

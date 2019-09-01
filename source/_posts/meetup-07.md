@@ -1,7 +1,7 @@
 ---
 title: POとPOじゃない人の勉強会 第7回
 date: 2015-06-24
-tags: meetup
+tags: プロダクトマネジメント, ProductManagement, 勉強会
 ---
 第7回は、今をときめく [minne(ミンネ) ハンドメイドマーケット 手作り作品の通販](https://minne.com/) の [のりぞー](https://twitter.com/nrkkkkk) が15章から17章をまとめました。
 

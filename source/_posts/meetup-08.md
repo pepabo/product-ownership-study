@@ -1,7 +1,7 @@
 ---
 title: POとPOじゃない人の勉強会 第8回
 date: 2015-07-01
-tags: meetup
+tags: プロダクトマネジメント, ProductManagement, 勉強会
 ---
 第8回は、[JUGEM](http://jugem.jp/) の yuriwo が18章から20章をまとめました。
 

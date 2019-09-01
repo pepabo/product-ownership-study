@@ -1,7 +1,7 @@
 ---
 title: POとPOじゃない人の勉強会 第12回
 date: 2015-07-29
-tags: meetup
+tags: プロダクトマネジメント, ProductManagement, 勉強会
 ---
 第12回は、諸事情により「ふりかえり回」になりました。
 

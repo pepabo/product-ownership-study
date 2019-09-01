@@ -1,7 +1,7 @@
 ---
 title: プロダクトオーナーシップ勉強会 第1回
 date: 2015-05-12
-tags: meetup
+tags: プロダクトマネジメント, ProductManagement, 勉強会
 ---
 本日より、ペパボプロダクトオーナーシップ勉強というものを始めました主催の [@kenchan](https://twitter.com/kenchan) です。
 

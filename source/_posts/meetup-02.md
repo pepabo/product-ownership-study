@@ -1,7 +1,7 @@
 ---
 title: プロダクトオーナーシップ勉強会 第2回
 date: 2015-05-21
-tags: meetup
+tags: プロダクトマネジメント, ProductManagement, 勉強会
 ---
 
 第2回は [@kenchan](https://twitter.com/kenchan) が、前回のおさらいも含めてはじめに~2章までをまとめました。

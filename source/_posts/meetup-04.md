@@ -1,7 +1,7 @@
 ---
 title: プロダクトオーナーシップ勉強会 第4回
 date: 2015-06-02
-tags: meetup
+tags: プロダクトマネジメント, ProductManagement, 勉強会
 ---
 第4回は、デザイナー件プロダクトオーナーである [@getsukikyu](https://twitter.com/getsukikyu) が6章から8章をまとめました。
 

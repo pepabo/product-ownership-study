@@ -1,7 +1,7 @@
 ---
 title: POとPOじゃない人の勉強会 第11回
 date: 2015-07-22
-tags: meetup
+tags: プロダクトマネジメント, ProductManagement, 勉強会
 ---
 第11回は、インフラグループマネージャである tamon が27章から29章までをまとめました。
 

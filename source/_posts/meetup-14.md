@@ -1,7 +1,7 @@
 ---
 title: POとPOじゃない人の勉強会 第14回
 date: 2015-08-27
-tags: meetup
+tags: プロダクトマネジメント, ProductManagement, 勉強会
 ---
 第14回は、[ロースおじさん](http://blog.goope.jp/) でおなじみ [グーペ](http://goope.jp/) のディレクターである [じつぞん](https://twitter.com/jitsuzon) が33章から35章をまとめました。
 

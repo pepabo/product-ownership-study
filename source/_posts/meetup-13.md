@@ -1,7 +1,7 @@
 ---
 title: POとPOじゃない人の勉強会 第13回
 date: 2015-08-05
-tags: meetup
+tags: プロダクトマネジメント, ProductManagement, 勉強会
 ---
 第13回は、デザイナー件プロダクトオーナーである [@getsukikyu](https://twitter.com/getsukikyu) が30章から32章をまとめました。
 

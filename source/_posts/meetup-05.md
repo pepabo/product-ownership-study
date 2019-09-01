@@ -1,7 +1,7 @@
 ---
 title: プロダクトオーナーシップ勉強会 第5回
 date: 2015-06-09
-tags: meetup
+tags: プロダクトマネジメント, ProductManagement, 勉強会
 ---
 第5回は、[写真共有サービス 30days Album](https://30d.jp/) のマネージャである [としや](https://twitter.com/hogemoge) が9章から11章をまとめました。
 
