@@ -10,7 +10,7 @@ authors:
   twitter: kenchan
   facebook: kenichi.taka
   github: kenchan
-published:true
+published: true
 ---
 第3回は、インフラグループマネージャである tamon が3章から5章までをまとめました。
 

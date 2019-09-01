@@ -10,7 +10,7 @@ authors:
   twitter: kenchan
   facebook: kenichi.taka
   github: kenchan
-published:true
+published: true
 ---
 第11回は、インフラグループマネージャである tamon が27章から29章までをまとめました。
 

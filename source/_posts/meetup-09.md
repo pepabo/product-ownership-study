@@ -10,7 +10,7 @@ authors:
   twitter: kenchan
   facebook: kenichi.taka
   github: kenchan
-published:true
+published: true
 ---
 第9回は、[カラーミーショップ](http://shop-pro.jp/) のディレクターである [@_gasyadokuro](https://twitter.com/_gasyadokuro) が21章から23章をまとめました。
 

@@ -10,7 +10,7 @@ authors:
   twitter: kenchan
   facebook: kenichi.taka
   github: kenchan
-published:true
+published: true
 ---
 
 第2回は [@kenchan](https://twitter.com/kenchan) が、前回のおさらいも含めてはじめに~2章までをまとめました。

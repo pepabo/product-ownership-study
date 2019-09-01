@@ -10,7 +10,7 @@ authors:
   twitter: kenchan
   facebook: kenichi.taka
   github: kenchan
-published:true
+published: true
 ---
 第12回は、諸事情により「ふりかえり回」になりました。
 

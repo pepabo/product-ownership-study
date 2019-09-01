@@ -10,7 +10,7 @@ authors:
   twitter: kenchan
   facebook: kenichi.taka
   github: kenchan
-published:true
+published: true
 ---
 本日より、ペパボプロダクトオーナーシップ勉強というものを始めました主催の [@kenchan](https://twitter.com/kenchan) です。
 

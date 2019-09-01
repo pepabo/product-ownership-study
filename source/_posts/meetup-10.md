@@ -10,7 +10,7 @@ authors:
   twitter: kenchan
   facebook: kenichi.taka
   github: kenchan
-published:true
+published: true
 ---
 第10回は、発表者が一周したので [@kenchan](https://twitter.com/kenchan) が24章から26章をまとめました。
 

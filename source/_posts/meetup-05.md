@@ -10,7 +10,7 @@ authors:
   twitter: kenchan
   facebook: kenichi.taka
   github: kenchan
-published:true
+published: true
 ---
 第5回は、[写真共有サービス 30days Album](https://30d.jp/) のマネージャである [としや](https://twitter.com/hogemoge) が9章から11章をまとめました。
 

@@ -10,7 +10,7 @@ authors:
   twitter: kenchan
   facebook: kenichi.taka
   github: kenchan
-published:true
+published: true
 ---
 第15回は、[写真共有サービス 30days Album](https://30d.jp/) のエンジニアである [june29](https://twitter.com/june29) が36章から最後までをまとめました。
 

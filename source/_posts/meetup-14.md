@@ -10,7 +10,7 @@ authors:
   twitter: kenchan
   facebook: kenichi.taka
   github: kenchan
-published:true
+published: true
 ---
 第14回は、[ロースおじさん](http://blog.goope.jp/) でおなじみ [グーペ](http://goope.jp/) のディレクターである [じつぞん](https://twitter.com/jitsuzon) が33章から35章をまとめました。
 

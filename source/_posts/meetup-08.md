@@ -10,7 +10,7 @@ authors:
   twitter: kenchan
   facebook: kenichi.taka
   github: kenchan
-published:true
+published: true
 ---
 第8回は、[JUGEM](http://jugem.jp/) の yuriwo が18章から20章をまとめました。
 

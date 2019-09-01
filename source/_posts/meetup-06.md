@@ -10,7 +10,7 @@ authors:
   twitter: kenchan
   facebook: kenichi.taka
   github: kenchan
-published:true
+published: true
 ---
 第6回は、[カラーミーショップ](http://shop-pro.jp/) のサブマネージャである [ライティ](https://twitter.com/hikalin8686) が12章から14章をまとめました。
 

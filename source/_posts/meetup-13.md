@@ -10,7 +10,7 @@ authors:
   twitter: kenchan
   facebook: kenichi.taka
   github: kenchan
-published:true
+published: true
 ---
 第13回は、デザイナー件プロダクトオーナーである [@getsukikyu](https://twitter.com/getsukikyu) が30章から32章をまとめました。
 

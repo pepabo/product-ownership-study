@@ -10,7 +10,7 @@ authors:
   twitter: kenchan
   facebook: kenichi.taka
   github: kenchan
-published:true
+published: true
 ---
 第4回は、デザイナー件プロダクトオーナーである [@getsukikyu](https://twitter.com/getsukikyu) が6章から8章をまとめました。
 

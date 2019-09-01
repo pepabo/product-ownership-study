@@ -10,7 +10,7 @@ authors:
   twitter: kenchan
   facebook: kenichi.taka
   github: kenchan
-published:true
+published: true
 ---
 活動報告が滞っているペパボプロダクトオーナーシップ勉強会の @kenchan です。
 
